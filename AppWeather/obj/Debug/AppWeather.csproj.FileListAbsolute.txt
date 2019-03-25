@@ -1,0 +1,15 @@
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\bin\Debug\AppWeather.exe.config
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\bin\Debug\AppWeather.exe
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\bin\Debug\AppWeather.pdb
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.exe
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.pdb
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.Form1.resources
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.Form2.resources
+C:\Users\Piotr\Desktop\Csharp\AppWeather\AppWeather\obj\Debug\AppWeather.Form3.resources
